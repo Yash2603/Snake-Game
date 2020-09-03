@@ -1,5 +1,27 @@
 # Snake-Game
 Snake Game in python pycharm 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import pygame
 import time
 import random
